@@ -1,5 +1,5 @@
 {
-    "name": "projeto/alura-composer",
+    "name": "projetorony/alura-composer",
     "description": "Buscador de projeto que busca curso no site do alura",
     "type": "library",
     "authors": [

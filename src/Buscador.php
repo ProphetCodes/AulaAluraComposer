@@ -1,6 +1,6 @@
 <?php
 
-namespace Projeto\BuscadorDeCursos;
+namespace Projetorony\BuscadorDeCursos;
 
 use GuzzleHttp\ClientInterface;
 use Symfony\Component\DomCrawler\Crawler;
